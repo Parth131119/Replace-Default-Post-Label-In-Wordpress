@@ -1,3 +1,2 @@
 # Replace-Default-Post-Label-In-Wordpress
-Replace Posts Label as Blogs in Admin Panel
-In Function File Use This Code
+Replace Posts Label as Blogs in Admin Panel // Put This Code in Function File
